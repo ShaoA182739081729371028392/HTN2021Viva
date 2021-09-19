@@ -1,0 +1,1 @@
+web: gunicorn viva.wsgi --log-file -
