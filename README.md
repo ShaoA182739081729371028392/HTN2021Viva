@@ -1,2 +1,1 @@
-# HTN2021Viva
-# Viva-Mobile-Backend
+# HTN2021Viva - Web Application
